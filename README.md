@@ -1,2 +1,2 @@
 # Mini
-I create an animated project using html/css and js.
+I create an animated miniproject using html/css and js.
